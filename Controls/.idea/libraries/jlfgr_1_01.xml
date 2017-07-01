@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jlfgr-1_01">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jlfgr-1_0/jlfgr-1_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/jlfgr-1_0/jlfgr-1_0.jar!/" recursive="false" />
+  </library>
+</component>
