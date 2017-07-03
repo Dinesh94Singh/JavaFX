@@ -5,11 +5,20 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <content url="jar://$USER_HOME$/Downloads/jlfgr-1_0/jlfgr-1_0.jar!/">
-      <sourceFolder url="jar://$USER_HOME$/Downloads/jlfgr-1_0/jlfgr-1_0.jar!/" type="java-resource" />
+    <content url="jar://$MODULE_DIR$/../Icons/jlfgr-1_0.jar!/">
+      <sourceFolder url="jar://$MODULE_DIR$/../Icons/jlfgr-1_0.jar!/" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="samples" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jlfgr-1_0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
